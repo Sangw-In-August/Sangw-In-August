@@ -29,7 +29,7 @@ Python, SQL, R 기반 분석 전 과정을 독립적으로 수행할 수 있습�
 ## 🔧 기술 스택
 
 - **언어 및 분석툴**: Python, SQL, R  
-- **머신러닝**: Logistic Regression, Random Forest, XGBoost, LightGBM, AFT 모델 등  
+- **머신러닝**: Generalized Regression(Lasso, Ridge, ElasticNet etc.), Random Forest, XGBoost, LightGBM 등  
 - **통계분석**: 생존 분석, 회귀 분석, 가설 검정, A/B 테스트  
 - **시각화 도구**: Tableau, matplotlib, seaborn, ggplot2  
 - **작업환경**: Jupyter, VS Code, Git
